@@ -14,7 +14,9 @@ Visit the live site here:
 - **Community Engagement:** Building networks of passionate minds who want to rethink tomorrow together.
 
 ## ✍️ About
-This is the official repository for Arsenal of Knowledge, built to host the platform's landing page and future projects.
+Arsenal of Knowledge is more than a blog — it is an evolving platform dedicated to amplifying voices, questioning stale narratives, and nurturing a culture of rigorous thinking among Gen Z and beyond.
+
+Founded by Emmanuel Beneth, a political science graduate, researcher, and award-winning student leader passionate about governance, equity, and transformative policies, this space was born out of a keen frustration with surface-level conversations and an even deeper desire to provoke meaningful reflection.
 
 ---
 
