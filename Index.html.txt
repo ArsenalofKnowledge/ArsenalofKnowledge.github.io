@@ -17,13 +17,24 @@
     </nav>
   </header>
   <main>
-    <section class="intro">
-      <h2>Amplifying Voices, Questioning Norms</h2>
-      <p>Fostering critical thinking among Gen Z by rethinking how we engage with ideas, policy, and the world around us.</p>
+    <section class="hero">
+      <h2>Fueling Critical Minds, Shaping Better Futures</h2>
+      <p>We amplify voices, question norms, and rethink how we engage with ideas, policy, and the world. Join a generation unafraid to challenge stale narratives and champion deeper understanding.</p>
     </section>
-    <section class="highlight">
-      <h3>Why Arsenal of Knowledge?</h3>
-      <p>We challenge stale narratives, inspire curiosity, and provide a platform where bold thoughts thrive. Join us as we explore, question, and reshape perspectives.</p>
+
+    <section class="features">
+      <div class="feature">
+        <h3>🧭 Thought Leadership</h3>
+        <p>Insightful essays and reflections to stretch your perspective and spark new ways of seeing the world.</p>
+      </div>
+      <div class="feature">
+        <h3>📚 Resources</h3>
+        <p>Curated reading lists, toolkits, and frameworks for thinking deeper, not just louder.</p>
+      </div>
+      <div class="feature">
+        <h3>🤝 Community</h3>
+        <p>Engage with a network of passionate minds ready to debate, build, and rethink tomorrow together.</p>
+      </div>
     </section>
   </main>
   <footer>
