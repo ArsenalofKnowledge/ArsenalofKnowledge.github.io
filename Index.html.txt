@@ -2,12 +2,32 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Arsenal of Knowledge</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Welcome to Arsenal of Knowledge</h1>
-  <p>Amplifying voices, questioning norms, and rethinking how we policy — fostering critical thinking among Gen Z.</p>
+  <header>
+    <h1>Arsenal of Knowledge</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="about.html">About</a>
+      <a href="#">Blog</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section class="intro">
+      <h2>Amplifying Voices, Questioning Norms</h2>
+      <p>Fostering critical thinking among Gen Z by rethinking how we engage with ideas, policy, and the world around us.</p>
+    </section>
+    <section class="highlight">
+      <h3>Why Arsenal of Knowledge?</h3>
+      <p>We challenge stale narratives, inspire curiosity, and provide a platform where bold thoughts thrive. Join us as we explore, question, and reshape perspectives.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Arsenal of Knowledge. All rights reserved.</p>
+  </footer>
 </body>
 </html>
